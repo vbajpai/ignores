@@ -1,0 +1,16 @@
+# ------ #
+#  C++
+# ------ #
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a

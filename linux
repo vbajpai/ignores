@@ -1,0 +1,10 @@
+# -------- #
+#  Linux
+# -------- #
+
+.*
+!.gitignore
+*~
+
+# KDE
+.directory
