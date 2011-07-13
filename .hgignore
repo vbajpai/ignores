@@ -1,3 +1,13 @@
+syntax:glob
+
+# ---------- #
+#  Textmate
+# ---------- #
+
+*.tmproj
+*.tmproject
+tmtags
+
 # ---------- #
 #  Mac OS X
 # ---------- #
