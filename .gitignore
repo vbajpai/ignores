@@ -1,0 +1,24 @@
+syntax:glob
+
+# ---------- #
+#  Textmate
+# ---------- #
+
+*.tmproj
+*.tmproject
+tmtags
+
+# ---------- #
+#  Mac OS X
+# ---------- #
+
+.DS_Store
+Icon?    
+*.orig
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
